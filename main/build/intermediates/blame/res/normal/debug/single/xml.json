@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\xml\\vpn_ipsettings.xml",
+        "source": "C:\\temp\\vlad\\ics-openvpn\\main\\src\\main\\res\\xml\\vpn_ipsettings.xml"
+    },
+    {
+        "merged": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\xml\\vpn_authentification.xml",
+        "source": "C:\\temp\\vlad\\ics-openvpn\\main\\src\\main\\res\\xml\\vpn_authentification.xml"
+    },
+    {
+        "merged": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\xml\\vpn_routing.xml",
+        "source": "C:\\temp\\vlad\\ics-openvpn\\main\\src\\main\\res\\xml\\vpn_routing.xml"
+    },
+    {
+        "merged": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\xml\\general_settings.xml",
+        "source": "C:\\temp\\vlad\\ics-openvpn\\main\\src\\main\\res\\xml\\general_settings.xml"
+    },
+    {
+        "merged": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\res\\merged\\normal\\debug\\xml\\vpn_obscure.xml",
+        "source": "C:\\temp\\vlad\\ics-openvpn\\main\\src\\main\\res\\xml\\vpn_obscure.xml"
+    }
+]

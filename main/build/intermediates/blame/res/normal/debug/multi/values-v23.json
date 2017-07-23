@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\incremental\\mergeNormalDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\SV\\.android\\build-cache\\7a7bb7c6cba4cf0a19c41b57fe170d8e74edd61f\\output\\res\\values-v23\\values-v23.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 200
+                    }
+                }
+            }
+        ]
+    }
+]

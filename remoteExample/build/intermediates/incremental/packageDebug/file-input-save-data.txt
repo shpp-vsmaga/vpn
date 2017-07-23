@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Jul 23 16:08:45 EEST 2017
+2.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\assets\\debug\\sv.conf
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\fragment_main.xml
+4.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\assets\\debug\\test.conf
+7.set=ASSET
+count=11
+0.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3fe8e76dd0f36d3feb4d3b4bf313313f9bad03b7\\classes.dex
+5.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb36a0b52def6b79cd907a9e22de5ed38a0c983c\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\assets\\debug
+1.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+10.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\assets\\debug
+2.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ASSET
+0.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3fe8e76dd0f36d3feb4d3b4bf313313f9bad03b7
+8.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb36a0b52def6b79cd907a9e22de5ed38a0c983c
+3.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_main.xml
+8.set=DEX
+0.set=DEX

@@ -1,0 +1,7 @@
+#Sun Jul 23 16:08:44 EEST 2017
+base.0=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3fe8e76dd0f36d3feb4d3b4bf313313f9bad03b7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb36a0b52def6b79cd907a9e22de5ed38a0c983c\\classes.dex
+base.1=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb36a0b52def6b79cd907a9e22de5ed38a0c983c
+file.0=C\:\\temp\\vlad\\ics-openvpn\\remoteExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3fe8e76dd0f36d3feb4d3b4bf313313f9bad03b7\\classes.dex

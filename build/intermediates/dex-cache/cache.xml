@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.android\build-cache\7a7bb7c6cba4cf0a19c41b57fe170d8e74edd61f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c879101226d1b2aaf6edae3d7491de6fd56d2659">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_f21f8deace2984dc5c0c19d7da12fee8008fea28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\temp\vlad\ics-openvpn\remoteExample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95813774124a61a69da51104621dd27fe887bd35">
+        <dex dex="C:\temp\vlad\ics-openvpn\remoteExample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3fe8e76dd0f36d3feb4d3b4bf313313f9bad03b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.android\build-cache\37fda2a26e300c03ec892a240c2d1052a852a1e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_07f27fea3d1b6fe3e9f5cfee8d3031d516bbed59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\MPAndroidChart-v3.0.2_14b4b1c1ab41e491191ca17d1957142bdfe2a0bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\support-annotations-25.4.0_6ade7b77f945831bd5b57de5b1c95227502f5c29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\temp\vlad\ics-openvpn\main\build\intermediates\incremental-runtime-classes\normal\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10000\instant-run_ea91c66155eadc0aee4494e5f933e1a8ceb67d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.android\build-cache\922d82e3674a3cef5834351c70a4640821812992\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_3a6ed15e1f922b6d645ae6c0c648c415318c18f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\temp\vlad\ics-openvpn\remoteExample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\temp\vlad\ics-openvpn\remoteExample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cb36a0b52def6b79cd907a9e22de5ed38a0c983c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\temp\vlad\ics-openvpn\main\build\intermediates\incremental-classes\normal\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3895c8fa6d8a8976a1df867dcd5fa9da0348b5a4">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10000\instant-run-bootstrap_3cca3482254d3dfe2c403992ad89148226479327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SV\.android\build-cache\8ecf068174fe6d0479b1b0a816580de619a0328c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="C:\temp\vlad\ics-openvpn\main\build\intermediates\transforms\dex\normal\debug\folders\1000\10\classes_0e8bd69ad5fbd770e26017b3086d859a9446ca50\classes.dex" />
+    </item>
+
+</items>

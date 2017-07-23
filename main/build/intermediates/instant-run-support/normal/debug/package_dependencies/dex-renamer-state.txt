@@ -1,0 +1,19 @@
+#Sun Jul 23 16:16:25 EEST 2017
+renamed.5=classes.dex
+renamed.4=classes5.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
+renamed.0=classes3.dex
+base.5=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_07f27fea3d1b6fe3e9f5cfee8d3031d516bbed59
+base.4=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\MPAndroidChart-v3.0.2_14b4b1c1ab41e491191ca17d1957142bdfe2a0bc
+base.3=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_0e8bd69ad5fbd770e26017b3086d859a9446ca50
+base.2=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_f21f8deace2984dc5c0c19d7da12fee8008fea28
+base.1=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\support-annotations-25.4.0_6ade7b77f945831bd5b57de5b1c95227502f5c29
+base.0=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_3a6ed15e1f922b6d645ae6c0c648c415318c18f8
+file.5=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_07f27fea3d1b6fe3e9f5cfee8d3031d516bbed59\\classes.dex
+file.4=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\MPAndroidChart-v3.0.2_14b4b1c1ab41e491191ca17d1957142bdfe2a0bc\\classes.dex
+file.3=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_0e8bd69ad5fbd770e26017b3086d859a9446ca50\\classes.dex
+file.2=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_f21f8deace2984dc5c0c19d7da12fee8008fea28\\classes.dex
+file.1=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\support-annotations-25.4.0_6ade7b77f945831bd5b57de5b1c95227502f5c29\\classes.dex
+file.0=C\:\\temp\\vlad\\ics-openvpn\\main\\build\\intermediates\\transforms\\dex\\normal\\debug\\folders\\1000\\10\\classes_3a6ed15e1f922b6d645ae6c0c648c415318c18f8\\classes.dex

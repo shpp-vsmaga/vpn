@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\temp\vlad\ics-openvpn\remoteExample\src\main\assets"><file name="test.conf" path="C:\temp\vlad\ics-openvpn\remoteExample\src\main\assets\test.conf"/><file name="sv.conf" path="C:\temp\vlad\ics-openvpn\remoteExample\src\main\assets\sv.conf"/></source><source path="C:\temp\vlad\ics-openvpn\remoteExample\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\temp\vlad\ics-openvpn\remoteExample\src\debug\assets"/></dataSet></merger>
